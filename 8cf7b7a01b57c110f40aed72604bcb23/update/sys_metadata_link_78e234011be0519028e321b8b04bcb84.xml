@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>729fd263db72630049a15f135e9619b0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_attachment">
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>2800</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>Pasted image.png</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>211479</size_bytes>
+        <size_compressed>183224</size_compressed>
+        <state>available</state>
+        <sys_created_by>jennifer.lee@snc</sys_created_by>
+        <sys_created_on>2019-01-10 20:04:53</sys_created_on>
+        <sys_id>729fd263db72630049a15f135e9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jennifer.lee@snc</sys_updated_by>
+        <sys_updated_on>2019-01-10 20:04:53</sys_updated_on>
+        <table_name>gsw_content_information</table_name>
+        <table_sys_id>48d4e45893c13200bebe7344967ffb07</table_sys_id>
+    </sys_attachment>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-07-05 18:41:52</sys_created_on>
+        <sys_id>78e234011be0519028e321b8b04bcb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pasted image.png</sys_name>
+        <sys_package display_value="test_111" source="8cf7b7a01b57c110f40aed72604bcb23">8cf7b7a01b57c110f40aed72604bcb23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</sys_scope>
+        <sys_update_name>sys_metadata_link_78e234011be0519028e321b8b04bcb84</sys_update_name>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-07-05 18:41:52</sys_updated_on>
+        <tablename>sys_attachment</tablename>
+    </sys_metadata_link>
+</record_update>

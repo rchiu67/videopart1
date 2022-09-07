@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>test_111_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-05-03 16:28:24</sys_created_on>
+        <sys_id>6f287ba01b57c110f40aed72604bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_111_user</sys_name>
+        <sys_package display_value="test_111" source="8cf7b7a01b57c110f40aed72604bcb23">8cf7b7a01b57c110f40aed72604bcb23</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</sys_scope>
+        <sys_update_name>sys_user_role_6f287ba01b57c110f40aed72604bcb66</sys_update_name>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-05-03 16:28:24</sys_updated_on>
+    </sys_user_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</claim_owner_scope>
+        <claim_timestamp>1808ac104900000001</claim_timestamp>
+        <metadata_update_name>sys_user_role_6f287ba01b57c110f40aed72604bcb66</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>test_111</previous_claim_name>
+        <previous_claim_scope>8cf7b7a01b57c110f40aed72604bcb23</previous_claim_scope>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-05-03 16:29:07</sys_created_on>
+        <sys_id>f1583fa01b57c110f40aed72604bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-05-03 16:29:07</sys_updated_on>
+    </sys_claim>
+</record_update>

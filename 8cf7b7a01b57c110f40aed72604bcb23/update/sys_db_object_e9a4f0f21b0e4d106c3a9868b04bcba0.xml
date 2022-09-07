@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test Sd</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>test_sd</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-03-08 22:42:14</sys_created_on>
+        <sys_id>e9a4f0f21b0e4d106c3a9868b04bcba0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test Sd</sys_name>
+        <sys_package display_value="">638ea6281bf67450f40aed72604bcb81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</sys_scope>
+        <sys_update_name>sys_db_object_e9a4f0f21b0e4d106c3a9868b04bcba0</sys_update_name>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-05-03 16:33:14</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</claim_owner_scope>
+        <claim_timestamp>1808ac4cc2a0000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_e9a4f0f21b0e4d106c3a9868b04bcba0</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>test_111</previous_claim_name>
+        <previous_claim_scope>8cf7b7a01b57c110f40aed72604bcb23</previous_claim_scope>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-05-03 16:33:14</sys_created_on>
+        <sys_id>5249f7e01b57c110f40aed72604bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-05-03 16:33:14</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="test_111">8cf7b7a01b57c110f40aed72604bcb23</claim_owner_scope>
+        <claim_timestamp>1808ac4cc270000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_e9a4f0f21b0e4d106c3a9868b04bcba0</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>test_1</previous_claim_name>
+        <previous_claim_scope>638ea6281bf67450f40aed72604bcb81</previous_claim_scope>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-05-03 16:33:14</sys_created_on>
+        <sys_id>1649f7e01b57c110f40aed72604bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>robert.chiu@snc</sys_updated_by>
+        <sys_updated_on>2022-05-03 16:33:14</sys_updated_on>
+    </sys_claim>
+</record_update>
